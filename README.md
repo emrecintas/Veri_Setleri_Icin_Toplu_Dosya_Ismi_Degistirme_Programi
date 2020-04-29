@@ -1,4 +1,4 @@
-# Yapay Zeka Veri Setleri İçin Toplu Dosya Tipi ve İsmi Değiştirme Programı
+# Yapay Zeka Veri Setleri için Toplu Olarak Dosya Tipini ve İsmini Değiştirme
 
 Bazen kendi veri setlerimizi etiketlemeden önce toplu olarak dosya ismini değiştirmek isteriz bu kapsamda Java Programlama Diliyle yazdığım program.
 
